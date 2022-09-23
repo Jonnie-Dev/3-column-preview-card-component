@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-3gSzmdplMg](https://frontendmentor.com)
-- Live Site URL: [https://johnnyteck.github.io/3-column-preview-card-component/](https://3-column-preview-card-component/)
+- Solution URL: (https://www.frontendmentor.io/solutions/3columnpreviewcardcomponent-3gSzmdplMg)[https://frontendmentor.com]
+- Live Site URL: (https://johnnyteck.github.io/3-column-preview-card-component/)[3-column-preview-card-component/]
 
 ## My process
 
@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [@Johnnyteck](https://www.github.com/johnnyteck)
-- Frontend Mentor - [@Johnnyteck](https://www.frontendmentor.io/profile/johnnyteck)
+- Website - [Github](https://www.github.com/johnnyteck)
+- Frontend Mentor - [FEM](https://www.frontendmentor.io/profile/johnnyteck)
 - Twitter - [@JonnieDev](https://www.twitter.com/JonnieDev)
 
