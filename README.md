@@ -46,7 +46,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [https://www.github.com/johnnyteck](@Johnnyteck)
-- Frontend Mentor - [https://www.frontendmentor.io/profile/johnnyteck](@Johnnyteck)
+- Website - [@Johnnyteck](https://www.github.com/johnnyteck)
+- Frontend Mentor - [@Johnnyteck](https://www.frontendmentor.io/profile/johnnyteck)
 - Twitter - [@JonnieDev](https://www.twitter.com/JonnieDev)
 
